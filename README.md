@@ -8,9 +8,9 @@
 
 *Objectives:*
 - use open source tools
-   - Icarus Verilog simulator
-   - Verilator HDL simulator
-   - cocotb
+   - [Icarus Verilog simulator](http://iverilog.icarus.com/)
+   - [Verilator HDL simulator](https://www.veripool.org/wiki/verilator)
+   - [cocotb](https://cocotb.readthedocs.io/en/latest/)
  - move out from my comfort zone
    - Python 3
    - Intel FPGA
