@@ -8,6 +8,7 @@
 
 *Objectives:*
 - use open source tools
+   - Icarus Verilog simulator
    - Verilator HDL simulator
    - cocotb
  - move out from my comfort zone
