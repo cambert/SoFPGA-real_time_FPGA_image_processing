@@ -17,6 +17,6 @@
 *Goals:*
 - create an open framework for FPGA image creation
 - develop a platform which could be re-used for similar projects
-- I want to see this again - interface camera or feed a video stream into the FPGA, real-time object detection on output
+- I want to see this again - real-time video capture into the FPGA, segmentation -> classification and tracking on the output screen!
 
     
