@@ -25,11 +25,6 @@ ___
 
 **TODO**
 
-*Blogging platform*
-- Start with something simple
-- Basic CSS with containers
-- Start blogging
-  
 *Setup basic project environment*
 - Write RTL for simple FF
 - Create a TB
