@@ -1,5 +1,5 @@
-# SoFPGA
-**System on FPGA** - my personal approach for Image/Video processing on FPGA. The main motivation is to bring back my PhD project back to life while learning new stuff. I would like to cover the entire design cycle - software prototype, RTL simulation and FPGA development. 
+# SoFPGA real time FPGA image processing
+**System on FPGA for real time FPGA image processing** - my personal approach for Image/Video processing on FPGA. The main motivation is to bring back my PhD project back to life while learning new stuff. I would like to cover the entire design cycle - software prototype, RTL simulation and FPGA development. 
 
 *Motivation:*
 - resurrect my project [Hardware architectures for infrared pedestrian detection systems](https://www.napier.ac.uk/research-and-innovation/research-search/outputs/hardware-architectures-for-infrared-pedestrian-detection-systems#downloads)
