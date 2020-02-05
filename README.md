@@ -20,4 +20,21 @@
 - develop a platform which could be re-used for similar projects
 - I want to see this again - real-time video capture into the FPGA, segmentation, classification and tracking on the output screen!
 
-    
+
+___
+
+**TODO**
+
+*Blogging platform*
+- Start with something simple
+- Basic CSS with containers
+- Start blogging
+  
+*Setup basic project environment*
+- Write RTL for simple FF
+- Create a TB
+- Simulator
+  
+*Do some project planning!*
+- Specify goal
+- Specify timescales
