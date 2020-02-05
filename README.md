@@ -3,7 +3,7 @@
 
 *Motivation:*
 - resurrect my project [Hardware architectures for infrared pedestrian detection systems](https://www.napier.ac.uk/research-and-innovation/research-search/outputs/hardware-architectures-for-infrared-pedestrian-detection-systems#downloads)
-- brush up my RTL development
+- brush up my RTL development skills
 - learn new stuff
 
 *Objectives:*
@@ -16,7 +16,7 @@
 
 *Goals:*
 - create an open framework for FPGA image creation
-- develop a platform which could be used for similar projects
-- feed video stream into the FPGA, real-time object detection on output
+- develop a platform which could be re-used for similar projects
+- I want to see this again - interface camera or feed a video stream into the FPGA, real-time object detection on output
 
     
