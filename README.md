@@ -39,4 +39,4 @@ Links
 
 [Quick github markup tutorial](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 
-[Github official markup dosc](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+[Github official markup docs](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
