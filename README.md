@@ -1,4 +1,4 @@
-# SoFPGA real time FPGA image processing
+# SoFPGA - real time FPGA image processing
 **System on FPGA for real time FPGA image processing** - my personal approach for Image/Video processing on FPGA. The main motivation is to bring back my PhD project back to life while learning new stuff. I would like to cover the entire design cycle - software prototype, RTL simulation and FPGA development. 
 
 *Motivation:*
@@ -23,13 +23,20 @@
 
 ___
 
-**TODO**
 
-*Setup basic project environment*
-- Write RTL for simple FF
-- Create a TB
-- Simulator
-  
-*Do some project planning!*
-- Specify goal
-- Specify timescales
+
+How to install [Icarus Verilog simulator](http://iverilog.icarus.com/)
+----------------------------------------------------------------------
+
+Follow [Installation_Guide](https://iverilog.fandom.com/wiki/Installation_Guide). If working in Centos 7, I would recommend the following path: 
+- *Obtaining Source From git*
+- *Compiling on Linux/Unix*
+- [Getting Started tutorial](https://iverilog.fandom.com/wiki/Getting_Started)
+
+
+Links
+-----
+
+[Quick github markup tutorial](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+
+[Github official markup dosc](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
