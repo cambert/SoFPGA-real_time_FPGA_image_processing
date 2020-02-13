@@ -34,10 +34,10 @@ Follow [Installation_Guide](https://iverilog.fandom.com/wiki/Installation_Guide)
 - [Getting Started tutorial](https://iverilog.fandom.com/wiki/Getting_Started)
 
 
-How to install GTKWave
+How to install [GTKWave viewer](http://gtkwave.sourceforge.net/)
 ----------------------
 
-- Download latest from http://gtkwave.sourceforge.net/ 
+- Download the latest package from http://gtkwave.sourceforge.net/ 
 - `sudo yum localinstall gtkwave-3.3.61-1.el7.x86_64.rpm`
 - If you have dependency issues with `libJudy` package - download from [here](https://centos.pkgs.org/7/epel-x86_64/Judy-1.0.5-8.el7.x86_64.rpm.html) and install:
 
